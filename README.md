@@ -1,15 +1,14 @@
-# Bank System Project
-
+# Basic Bank System 🏦
 This Java project implements a simple banking system with various account types, transactions, and banking operations.
 
-## Features
+## Features ✨
 
 - Create different types of accounts: Saving, Current, Salary, Loan.
 - Perform operations such as deposit, withdrawal, account status, interest calculation, and account closure.
 - Admin-level reports including end-of-the-day report and bank balance sheet.
 - Password-protected admin access for secure operations.
 
-## Project Structure
+## Project Structure 📁
 
 - `com.ranjit.bankSystem`: Main package containing the classes for the banking system.
   - `Main.java`: Entry point of the application with a menu-driven interface.
@@ -17,18 +16,18 @@ This Java project implements a simple banking system with various account types,
   - `Account.java`: Base class for different account types.
   - `SavingAcc.java`, `CurrentAcc.java`, `SalaryAcc.java`, `LoanAcc.java`: Classes for specific account types.
   
-## Usage
+## Usage 🚀
 
 1. Run `Main.java` to start the banking system application.
 2. Follow the on-screen prompts to create accounts, perform transactions, and generate reports.
 3. Admin access is password-protected for specific operations.
 
-## Prerequisites
+## Prerequisites 🛠️
 
 - Java Development Kit (JDK)
 - Integrated Development Environment (IDE) like Eclipse or IntelliJ
 
-## Setup and Execution
+## Setup and Execution 🛠️
 
 1. Clone the repository:
 
