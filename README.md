@@ -33,3 +33,15 @@ This Java project implements a simple banking system with various account types,
 
    ```bash
    git clone https://github.com/your-username/bank-system-project.git
+
+1. Open the project in your preferred IDE.
+2. Build and run the Main.java file to launch the application.
+
+## Contribution 🤝
+# Contributions are welcome! Please follow the guidelines below:
+
+- Fork the repository
+- Create your feature branch (git checkout -b feature/my-new-feature)
+- Commit your changes (git commit -am 'Add some feature')
+- Push to the branch (git push origin feature/my-new-feature)
+- Create a new Pull Request
